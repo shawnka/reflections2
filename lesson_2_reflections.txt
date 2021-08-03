@@ -3,3 +3,6 @@ A git repository file structure is created. So that git recognises it as a git d
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is only files being tracked that will be part of the next commit, whereas the working directory is all files in directory. The repository is the files git uses to keep track of changes for version control.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Compare the diff between staging area to most recent commit is only the one logical change
