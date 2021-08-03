@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it? 
+A git repository file structure is created. So that git recognises it as a git directory.
