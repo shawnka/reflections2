@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it? 
-A git repository file structure is created. So that git recognises it as a git directory.
+A git repository file structure is created. So that git recognises it as a git directory. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is only files being tracked that will be part of the next commit, whereas the working directory is all files in directory. The repository is the files git uses to keep track of changes for version control.
