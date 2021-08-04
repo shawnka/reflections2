@@ -9,3 +9,6 @@ Compare the diff between staging area to most recent commit is only the one logi
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Experimenting with new ideas and versions
+
+How do the diagrams help you visualize the branch structure?
+Shows how many commits in each branch and where they split from others.
