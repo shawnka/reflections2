@@ -6,3 +6,6 @@ The staging area is only files being tracked that will be part of the next commi
 
 How can you use the staging area to make sure you have one commit per logical change?
 Compare the diff between staging area to most recent commit is only the one logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Experimenting with new ideas and versions
