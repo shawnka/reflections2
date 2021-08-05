@@ -15,3 +15,11 @@ Shows how many commits in each branch and where they split from others.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Combine the changes of both branches into one. To show which commits were in each branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic
+Pros -  Takes most likely easy decisions highlights conflicts.
+Cons - May sometimes not work very well 
+manually
+Pros - be able to exactly pick the right changes
+Cons - Very tedious prone to human error
