@@ -12,3 +12,6 @@ Experimenting with new ideas and versions
 
 How do the diagrams help you visualize the branch structure?
 Shows how many commits in each branch and where they split from others.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Combine the changes of both branches into one. To show which commits were in each branch.
